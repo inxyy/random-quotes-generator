@@ -1,0 +1,17 @@
+/* CSS Document */
+body {
+	font-family: 'Pacifico', cursive;
+	background-color: #F7F3F3
+}
+#quotes_space {
+	text-align: center;
+	font-size-adjust: auto;
+	font-size: xx-large;
+	margin-top: 20%;
+}
+
+
+#button {
+	text-align: center;
+	margin-top: 25%;
+}
